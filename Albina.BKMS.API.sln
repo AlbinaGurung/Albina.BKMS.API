@@ -1,8 +1,28 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Albina.BKMS.API", "Albina.BKMS.API\Albina.BKMS.API.csproj", "{6580DA86-5021-4678-8DAE-F9E104206ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Albina.BKMS.Data", "Albina.BKMS.Data\Albina.BKMS.Data.csproj", "{17F3A236-BA3E-43FF-97D3-D08C9CE4AE0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Albina.BKMS.Service", "Albina.BKMS.Service\Albina.BKMS.Service.csproj", "{7C89932C-E7E2-4B58-A029-ACDE7F0BDBE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6580DA86-5021-4678-8DAE-F9E104206ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6580DA86-5021-4678-8DAE-F9E104206ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6580DA86-5021-4678-8DAE-F9E104206ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6580DA86-5021-4678-8DAE-F9E104206ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F3A236-BA3E-43FF-97D3-D08C9CE4AE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F3A236-BA3E-43FF-97D3-D08C9CE4AE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F3A236-BA3E-43FF-97D3-D08C9CE4AE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F3A236-BA3E-43FF-97D3-D08C9CE4AE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C89932C-E7E2-4B58-A029-ACDE7F0BDBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C89932C-E7E2-4B58-A029-ACDE7F0BDBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C89932C-E7E2-4B58-A029-ACDE7F0BDBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C89932C-E7E2-4B58-A029-ACDE7F0BDBE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

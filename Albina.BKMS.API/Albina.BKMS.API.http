@@ -1,0 +1,6 @@
+@Albina.BKMS.API_HostAddress = http://localhost:5259
+
+GET {{Albina.BKMS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
